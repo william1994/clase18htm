@@ -1,0 +1,19 @@
+body{
+
+    background-color: rgb(193, 214, 214);
+}
+
+*{
+margin: 0px;
+padding: 0px;   
+}
+
+p{
+
+    color: rgb(231, 56, 56);
+    font-size: 40px;
+}
+
+div {
+    width: 80%;
+}
